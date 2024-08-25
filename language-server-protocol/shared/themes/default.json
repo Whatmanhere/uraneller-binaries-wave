@@ -1,0 +1,121 @@
+{
+  "author": "uraneller",
+  "name": "Default",
+  "colors": {
+    "editor.background": "#161C29",
+    "editor.foreground": "#FFFFFF"
+  },
+  "tokenColors": [
+    {
+      "name": "Constant",
+      "scope": [
+        "constant",
+        "namespace"
+      ],
+      "settings": {
+        "foreground": "#FF7333"
+      }
+    },
+    {
+      "name": "Support Type",
+      "scope": [
+        "support.type",
+        "type",
+        "typeParameter"
+      ],
+      "settings": {
+        "foreground": "#6BC0FF"
+      }
+    },
+    {
+      "name": "Support Class",
+      "scope": [
+        "support.class",
+        "class",
+        "enum"
+      ],
+      "settings": {
+        "foreground": "#E5C07B"
+      }
+    },
+    {
+      "name": "Variable",
+      "scope": [
+        "variable",
+        "parameter",
+        "property",
+        "enumMember"
+      ],
+      "settings": {
+        "foreground": "#6BC0FF"
+      }
+    },
+    {
+      "name": "Event",
+      "scope": [
+        "event"
+      ],
+      "settings": {
+        "foreground": "#D19A62"
+      }
+    },
+    {
+      "name": "Support Function",
+      "scope": [
+        "support.function",
+        "method"
+      ],
+      "settings": {
+        "foreground": "#0DCCFF"
+      }
+    },
+    {
+      "name": "Support Function Any Method",
+      "scope": [
+        "support.function.any-method",
+        "function"
+      ],
+      "settings": {
+        "foreground": "#61AFEF"
+      }
+    },
+    {
+      "name": "Keyword",
+      "scope": [
+        "keyword"
+      ],
+      "settings": {
+        "foreground": "#C993FF"
+      }
+    },
+    {
+      "name": "Comment",
+      "scope": [
+        "comment"
+      ],
+      "settings": {
+        "foreground": "#5C6370"
+      }
+    },
+    {
+      "name": "String",
+      "scope": [
+        "string"
+      ],
+      "settings": {
+        "foreground": "#9AFFE6"
+      }
+    },
+    {
+      "name": "Constant Numeric",
+      "scope": [
+        "constant.numeric",
+        "number"
+      ],
+      "settings": {
+        "foreground": "#FF7333"
+      }
+    }
+  ],
+  "uuid": "32bd64fa-d60a-4858-a5fc-5164cc49a2b8"
+}
