@@ -1,9 +1,12 @@
 {
   "author": "uraneller",
-  "name": "Default",
+  "name": "default",
   "colors": {
-    "editor.background": "#161C29",
-    "editor.foreground": "#FFFFFF"
+    "editor.background": "#121118",
+    "editor.foreground": "#7A7693",
+    "editorWidget.border": "#1C1C24",
+    "editorWidget.background": "#121118",
+    "editor.lineHighlightBorder": "#1C1C24"
   },
   "tokenColors": [
     {
@@ -47,7 +50,7 @@
         "enumMember"
       ],
       "settings": {
-        "foreground": "#6BC0FF"
+        "foreground": "#643C7C"
       }
     },
     {
@@ -66,7 +69,7 @@
         "method"
       ],
       "settings": {
-        "foreground": "#0DCCFF"
+        "foreground": "#C25EC2"
       }
     },
     {
@@ -76,7 +79,7 @@
         "function"
       ],
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#C25EC2"
       }
     },
     {
@@ -103,7 +106,7 @@
         "string"
       ],
       "settings": {
-        "foreground": "#9AFFE6"
+        "foreground": "#7A7693"
       }
     },
     {
