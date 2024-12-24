@@ -2,6 +2,11 @@
   "author": "uraneller",
   "name": "default",
   "colors": {
+    "editorOverviewRuler.warningForeground": "#800080",
+   "editorOverviewRuler.errorForeground": "#b100cd",
+    "editorOverviewRuler.infoForeground": "#6B91B2",
+   "editorError.foreground": "#b100cd",
+   "editorWarning.foreground": "#800080",
     "editor.background": "#121118",
     "editor.foreground": "#7A7693",
     "editorWidget.border": "#1C1C24",
@@ -50,7 +55,7 @@
         "enumMember"
       ],
       "settings": {
-        "foreground": "#643C7C"
+        "foreground": "#428fcd"
       }
     },
     {
